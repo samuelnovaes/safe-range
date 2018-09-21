@@ -22,7 +22,7 @@ Generate safe range of numbers in JavaScript
 ```javascript
 const range = require('safe-range')
 
-console.log(range(5)) //[1, 2, 3, 4, 5]
+console.log(range(5)) //[0, 1, 2, 3, 4, 5]
 console.log(range(2, 5)) //[2, 3, 4, 5]
 console.log(range(2, 8, 2)) //[2, 4, 6, 8]
 ```
