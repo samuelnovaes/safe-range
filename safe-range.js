@@ -33,6 +33,6 @@ function range(start, end, step) {
 	}
 	return arr;
 }
-if (typeof module != 'undefined') {
+if (typeof module !== 'undefined') {
 	module.exports = range;
 }
