@@ -15,7 +15,7 @@ Generate safe range of numbers in JavaScript
 </script>
 ```
 
-# NodeJS
+## NodeJS
 
 `npm install safe-range`
 
@@ -29,7 +29,7 @@ console.log(range(2, 8, 2)) //[2, 4, 6, 8]
 
 # Why is it safe?
 
-Exemple: `range(0, 1, 0.1)`
+Example: `range(0, 1, 0.1)`
 
 safe-range	| Other libraries
 ---			| ---
