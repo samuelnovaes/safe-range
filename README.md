@@ -7,7 +7,7 @@ Generate safe range of numbers in JavaScript
 ## Browser
 
 ```html
-<script src="..."></script>
+<script src="https://unpkg.com/safe-range"></script>
 <script>
 	console.log(range(5)) //[1, 2, 3, 4, 5]
 	console.log(range(2, 5)) //[2, 3, 4, 5]

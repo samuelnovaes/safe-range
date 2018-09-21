@@ -1,6 +1,6 @@
 {
   "name": "safe-range",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate safe range of numbers in JavaScript",
   "main": "safe-range.js",
   "scripts": {
